@@ -6,4 +6,5 @@ create table member
 
 
 
+
 );
